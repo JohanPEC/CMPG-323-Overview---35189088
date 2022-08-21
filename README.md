@@ -15,4 +15,4 @@ Peoject 4: Testing & RPA - Create a repository named 'CMPG 323 Project 4 - 35189
 
 Project 5: Reporting & Monitoring - Create a repository named 'CMPG 323 Project 5 - 35189088' - This repository is created in order to create and store the core of what is needed to achieve the Reporting deliverables for Power BI. This repository thus serves to house and serve the data and code necessary to generate the Microsoft Power BI Reporting functionality.
 
-Exam (POE) Submission - 
+Exam (POE) Submission 

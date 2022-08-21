@@ -11,7 +11,8 @@ Project 2: API Project - Create a repository named 'CMPG 323 Project 2 - 3518908
 
 Project 3: Create a repository named ‘CMPG 323 Project 3 - 35189088' - This repository is created in order to understand, analyze and improve design patterns. This repository will serve to aid in this mission of understanding and improving a ASP.NET Core MVC Web Application taht will be given to us to improve. The prupose of this is to be able to understand code that others might share with us in the future and to understand what the design patterns are that drives development for such applications. 
 
-Peoject 4
+Peoject 4: Create a repository named 'CMPG 323 Project 4 - 35189088' - This repository is created in order to carry out UAT (User acceptance testing) - Testing is a very important part of the development cycle and this repository will serve as basis to achieve the deliverables set out to understand and carry out UAT in a project setting.
+
 
 Project 5
 
